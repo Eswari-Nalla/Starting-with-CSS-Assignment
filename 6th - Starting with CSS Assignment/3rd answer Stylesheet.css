@@ -1,0 +1,12 @@
+#firstname { background-color: aqua; }
+#lastname { background-color: antiquewhite; }
+#Phonenumber { background-color: aliceblue; }
+.Emailid { background-color: bisque;}
+#Password { background-color: rgb(175, 248, 175);}
+.ConfirmPassword { background-color: blanchedalmond;}
+.DOB { background-color: aquamarine; }
+button { opacity: 60%; }
+.Gender { accent-color: rgb(12, 240, 12); }
+#terms { accent-color: red; } /* This is the property used to color checkbox */
+#username { background-color: cyan; }
+#password {background-color: gainsboro; }
